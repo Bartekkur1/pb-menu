@@ -1,0 +1,5 @@
+<resources>
+    <properties>
+        <property id="url" type="string">https://pb-menu-api.herokuapp.com</property>
+    </properties>
+</resources>

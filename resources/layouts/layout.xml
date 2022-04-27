@@ -1,0 +1,3 @@
+<layout id="MainLayout">
+    <bitmap id="id_logo" x="center" y="0" filename="../drawables/ProgressBar.png" />
+</layout>
